@@ -5,5 +5,3 @@
 ## Interesting Projects
 
 - [Sorting Algorithm Visualization](https://martin-pettersson.github.io/sorting-algorithm-visualization/)
-
-[![test]([Image URL](https://martin-pettersson.github.io/sorting-algorithm-visualization/))]([Link URL](https://martin-pettersson.github.io/sorting-algorithm-visualization/))
